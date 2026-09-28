@@ -23,9 +23,6 @@ BSIT student building things with Node.js and MySQL
 ---
 
 ```
-$ whoami
-paclibar
-
 $ cat currently.txt
 learning full-stack web development
 building CRUD systems with Node.js, Express and MySQL
