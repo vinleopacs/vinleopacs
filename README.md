@@ -1,7 +1,5 @@
 <div align="center">
 
-# Paclibar
-
 BSIT student building things with Node.js and MySQL
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,18 +18,3 @@ BSIT student building things with Node.js and MySQL
 
 </div>
 
----
-
-```
-$ cat currently.txt
-learning full-stack web development
-building CRUD systems with Node.js, Express and MySQL
-
-$ ls projects/
-paclibar-student_management-mw1230
-```
-
-### Latest project
-
-**[Student Management System](https://github.com/vinleopacs/paclibar-student_management-mw1230)**
-A CRUD system with a terminal-style interface and a password-protected admin panel. Built with Node.js, Express and MySQL.
